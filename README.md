@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paulo-tassio
 - 👀 I’m interested in Front-End
-- 🌱 I’m currently learning javascript, python, Java
+- 🌱 I’m currently learning Java, python
 - 📫 How to reach me ...
 
 <!---

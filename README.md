@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @paulo-tassio
 - 👀 I’m interested in Front-End
-- 🌱 I’m currently learning Java, python
-- 📫 How to reach me ...
+- 🌱 I’m currently learning React
 
 <!---
 paulo-tassio/paulo-tassio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

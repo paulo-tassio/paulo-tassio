@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @paulo-tassio
-- 👀 I’m interested in Front-End
 - 🌱 I’m currently learning React,Java and MySQL
 
 <!---

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @paulo-tassio
-- 🌱 I’m currently learning React,Java and MySQL
+- 🌱 I’m currently learning React, Kotlin and PostGres
 
 <!---
 paulo-tassio/paulo-tassio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
